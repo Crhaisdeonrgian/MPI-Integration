@@ -1,2 +1,2 @@
-# MPI-Integration
-Here you can find MPI calculation of integral using trapezoidal rule
+# MPI&OPNEMP-Integration
+Here you can find MPI and OPENMP calculations of integral using trapezoidal rule
